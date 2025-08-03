@@ -5,7 +5,6 @@ This is a responsive and animated portfolio website inspired by the design and a
 ## 🌐 Live Demo
 
 🔗 [Click here to view the live site](https://timely-sunflower-29970b.netlify.app)  
-*(Replace with your actual deployed URL)*
 
 ## ✨ Features
 
